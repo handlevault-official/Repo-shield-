@@ -1,0 +1,10 @@
+{
+  "name": "Crisp Repo-Shield",
+  "short_name": "RepoShield",
+  "description": "Security and compliance audit portal for the Crisp Suite ecosystem.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#030712",
+  "theme_color": "#10b981",
+  "icons": []
+}
